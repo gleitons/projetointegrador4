@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.fundoTeste {
+    background-color: #E8E8E4;
+}
+.daPlaca {
+    top: -220px;
+}
